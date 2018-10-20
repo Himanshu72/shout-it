@@ -1,0 +1,18 @@
+* {
+  margin: 0;
+  padding: 0;
+  }
+
+  body {
+  font-family: Segoe UI;
+  padding: 50px;
+  margin: 30px;
+  }
+
+  .jumbotron {
+   background-image: url(jumbotron.jpg);
+   }
+
+   .shouts span{
+     color: grey;
+   }
